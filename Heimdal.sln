@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{14EDC77D-3622-4AC1-A58F-4F15D69E821A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heimdal.WebApp", "src\Heimdal.WebApp\Heimdal.WebApp.csproj", "{724B8164-F9D0-44A7-8B55-CC0C8D8C8B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{724B8164-F9D0-44A7-8B55-CC0C8D8C8B25} = {14EDC77D-3622-4AC1-A58F-4F15D69E821A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724B8164-F9D0-44A7-8B55-CC0C8D8C8B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724B8164-F9D0-44A7-8B55-CC0C8D8C8B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724B8164-F9D0-44A7-8B55-CC0C8D8C8B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724B8164-F9D0-44A7-8B55-CC0C8D8C8B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

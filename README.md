@@ -1,0 +1,2 @@
+# Heimdal
+Protects static files
